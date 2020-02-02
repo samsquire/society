@@ -1,6 +1,6 @@
 # society
 
-A dream society
+A dream society. Why is life so hard?
 
 # Luxury apartments for everyone
 
