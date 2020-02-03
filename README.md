@@ -4,6 +4,8 @@ A dream society. Why is life so hard?
 
 # Everyone has money
 
+# Everyone has housing (shelter)
+
 # Gig economy is not suffering inducing
 
 # Luxury pod apartments for everyone
