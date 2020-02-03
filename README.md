@@ -10,24 +10,18 @@ A dream society. Why is life so hard?
 
 Luxury apartments become the standard mode of living. A luxury apartment has the following:
 * a gym
-
 * an indoor swimming pool
-
 * communal restaurants
-
 * pod-like rooms with en suite and a bed
-
 * community lounges with stocked food and drinks (a bit like hotel executive lounges)
-
 * private rooms with sofas
-
 * arts and crafts room
-
 * conference rooms
-
 * cinema room
-
 * games room
 
 # People living off marketing and rewards
 
+# Studying Suffering as a science
+
+Find all the things that cause people to suffer then eradicate them one by one.
