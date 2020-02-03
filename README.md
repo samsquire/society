@@ -8,10 +8,12 @@ A dream society. Why is life so hard?
 
 # Luxury pod apartments for everyone
 
-Luxury apartments become the standard mode of living. A luxury apartment has the following:
+Luxury pod apartments become the standard mode of living. A luxury pod apartment has the following:
 * a gym
 * an indoor swimming pool
 * communal restaurants
+* communal kitchens
+* bakery
 * pod-like rooms with en suite and a bed
 * community lounges with stocked food and drinks (a bit like hotel executive lounges)
 * private rooms with sofas
