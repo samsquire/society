@@ -5,6 +5,14 @@ A dream society. Why is life so hard?
 # Everyone has money
 
 Gift every adult citizen with £10,000 a year (£833 a month)
+Unconditionally £10,000 for each citizen, 600 billion
+Remove all benefits except adult social care
+Tax begins at £10,000
+Everyone required to take out health insurance to NHS
+40% tax on property income
+12.5% corporate tax rate
+50% income tax
+
 
 # Everyone has housing (shelter)
 
