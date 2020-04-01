@@ -4,6 +4,8 @@ A dream society. Why is life so hard?
 
 # Everyone has money
 
+Gift every adult citizen with £10,000 a year (£833 a month)
+
 # Everyone has housing (shelter)
 
 # Gig economy is not suffering inducing
