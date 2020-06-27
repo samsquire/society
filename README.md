@@ -4,6 +4,8 @@ A dream society. Why is life so hard?
 
 # Everyone has money
 
+Regardless whether  they work or not.
+
 * Gift every adult citizen with £10,000 a year (£833 a month)
 * Unconditionally £10,000 for each citizen, 600 billion
 * Remove all benefits except adult social care
@@ -13,6 +15,11 @@ A dream society. Why is life so hard?
 * 12.5% corporate tax rate
 * 50% income tax
 
+# "Authoritarianism necessary for certain jobs"
+
+Authoritarianism is necessary for certain jobs that require things be done a certain way :- running a farm for example. Fast food restaurants.
+
+Can we go beyond authoritarianism for doing things?
 
 # Everyone has housing (shelter)
 
