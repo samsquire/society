@@ -15,7 +15,7 @@ Regardless whether  they work or not.
 * 12.5% corporate tax rate
 * 50% income tax
 
-# "Authoritarianism necessary for certain jobs"
+# Beyond Authoritarianism
 
 Authoritarianism is necessary for certain jobs that require things be done a certain way :- running a farm for example. Fast food restaurants.
 
