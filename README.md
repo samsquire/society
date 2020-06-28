@@ -50,3 +50,7 @@ Find all the things that cause people to suffer then eradicate them one by one.
 # Buildings designed to feed people
 
 A building that can cook food centrally and distribute it to a kitchen.
+
+# Country is appetising for business
+
+* maternity leave pay, sick leave pay come out of government printed money
