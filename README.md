@@ -54,3 +54,7 @@ A building that can cook food centrally and distribute it to a kitchen.
 # Country is appetising for business
 
 * maternity leave pay, sick leave pay come out of government printed money
+
+# Hard work should pay more money
+
+Some jobs take more calories than others. Let's pay people based on the calories used by the job.
