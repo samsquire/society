@@ -2,6 +2,8 @@
 
 A dream society. Why is life so hard?
 
+# Happiness is studied and the results integrated into society
+
 # Everyone has money
 
 Regardless whether  they work or not.
