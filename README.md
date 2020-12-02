@@ -2,6 +2,10 @@
 
 A dream society. Why is life so hard?
 
+# Safety network
+
+People who want to be protected: put in a database, when job is lost, database kicks in.
+
 # Happiness is studied and the results integrated into society
 
 # Everyone has money
