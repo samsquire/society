@@ -2,6 +2,10 @@
 
 A dream society. Why is life so hard?
 
+In 2021, social problems still exist and haven't been solved properly. We still suffer from poverty and crime. Life is unpleasant and doesn't pay for the vast majority of workers. Workers are underpaid and still suffer a lack of wage inflation. Work doesn't pay unless you're a software developer.
+
+House prices are too expensive. Nobody young can afford a house. People have to compete for shelter in the same way animals compete for shelter. Economic growth is severely limited when people have to compete for basic needs like shelter. People have to depend on their families for simple basic needs such as shelter. 
+
 # Safety network
 
 People who want to be protected: put in a database, when job is lost, database kicks in.
