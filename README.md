@@ -4,11 +4,13 @@ A dream society. Why is life so hard?
 
 In 2022, social problems still exist and haven't been solved properly. We still suffer from poverty and crime. Life is unpleasant and doesn't pay for the vast majority of workers. Workers are underpaid and still suffer a lack of wage inflation. Work doesn't pay unless you're a software developer.
 
-By the same token businesses are really difficult to start and cost a lot of money in legal costs. The barriers to entry are enormous. Most businesses fail and nobody seems to care.
+By the same token businesses are really difficult to start and cost a lot of money in legal and debt costs. The barriers to entry are enormous. Most businesses fail and nobody seems to care.
 
+When you bake a cake, you cannot get the egg back out.
 
+Coordination is rare.
 
-House prices are too expensive. Nobody young can afford a house. People have to compete for shelter in the same way animals compete for shelter. Economic growth is severely limited when people have to compete for basic needs like shelter. People have to depend on their families for simple basic needs such as shelter.
+House prices are too expensive. Nobody young can afford a house. People have to compete for shelter in the same way animals compete for shelter. Economic growth is severely limited when people have to compete for basic needs like shelter. People need to depend on their families for simple basic needs such as shelter.
 
 Inflation is far higher than reported because governments don't track inflation of what the average person needs to spend on.
 
