@@ -10,6 +10,8 @@ When you bake a cake, you cannot get the egg back out.
 
 Coordination is rare.
 
+Everything is irreversible and difficult. To start an endeavour you suddenly have lots of problems to solve. You have lots of decisions to make.
+
 House prices are too expensive. Nobody young can afford a house. People have to compete for shelter in the same way animals compete for shelter. Economic growth is severely limited when people have to compete for basic needs like shelter. People need to depend on their families for simple basic needs such as shelter.
 
 Inflation is far higher than reported because governments don't track inflation of what the average person needs to spend on.
