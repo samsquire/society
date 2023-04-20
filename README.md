@@ -16,7 +16,7 @@ House prices are expensive. Nobody young can afford a house. People have to comp
 
 # Safety network
 
-Businesses should always succeed. I propose outsourcing be how we create a safer society. Establish government backed business administration centres which handle administration for businesses. It should be easy to start a company. 
+Businesses should always succeed. I propose outsourcing be how we create a safer society. Establish incubator backed business administration centres which handle administration for businesses. It should be easy to start a company. 
 
 People who want to be protected: put in a database, when job is lost, database kicks in.
 
